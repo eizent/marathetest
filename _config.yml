@@ -50,11 +50,11 @@ exclude:
   - backstop_data
   - backstop.json
 
-# Theme
+#Theme
 # (Used for local or custom-server deployments)
 # Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
 # See https://jekyllrb.com/docs/themes/
-# theme: "ed."
+theme: "ed."
 
 # Remote Theme
 # (Used only for GitHub deployments)
